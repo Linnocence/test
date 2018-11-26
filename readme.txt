@@ -1,2 +1,2 @@
-git is a distributed verdion control system.
-git is free sofeware distributed under the GPL.
+Git is a distributed verdion control system.
+Git is free sofeware distributed under the GPL.
